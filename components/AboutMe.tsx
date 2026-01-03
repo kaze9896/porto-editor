@@ -128,7 +128,7 @@ export default function AboutMe() {
                   transition={{ duration: 0.6, delay: 1.4 }}
                 >
                  <span className="text-white font-semibold">I'm Video Editor
-                    <span className="text-gray-400 italic">(Can be also your front end dev or Gym coach, just buy me 5$ burgers)</span>
+                    <span className="text-gray-400 italic">(Also can be your Frontend dev or gym coach — $5 burger and I’m in)</span>
                     </span>.
                   <br />
                   Information System Major just who love edit
