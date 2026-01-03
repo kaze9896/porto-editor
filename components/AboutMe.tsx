@@ -87,7 +87,7 @@ export default function AboutMe() {
             >
               {/* Heading: Welcome to my portfolio website!! */}
               <SplitText
-                text="Welcome to my portfolio website!!"
+                text="Welcome to my portofolio website!!"
                 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white drop-shadow-[0_0_6px_rgba(255,255,255,0.7)]"
                 delay={80}
                 duration={0.6}
@@ -131,7 +131,7 @@ export default function AboutMe() {
                     <span className="text-gray-400 italic">(Also I can be your Frontend dev or gym coach — $5 burger and I’m in)</span>
                     </span>.
                   <br />
-                  Information System Major just who love edit
+                  Information System Major with chatgpt
                 </motion.p>
 
                 <motion.p
