@@ -13,7 +13,7 @@ export default function Home() {
       <div className="fixed inset-0 pointer-events-none" style={{ zIndex: 1 }}>
         <Particles
           particleColors={['#ffffff', '#ffffff']}
-          particleCount={100} 
+          particleCount={75} 
           particleSpread={10}
           speed={0.08}
           particleBaseSize={120}
